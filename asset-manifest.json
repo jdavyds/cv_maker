@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv_maker/static/css/main.c868a22f.chunk.css",
+    "main.js": "/cv_maker/static/js/main.2ecd4a5c.chunk.js",
+    "main.js.map": "/cv_maker/static/js/main.2ecd4a5c.chunk.js.map",
+    "runtime-main.js": "/cv_maker/static/js/runtime-main.7716a684.js",
+    "runtime-main.js.map": "/cv_maker/static/js/runtime-main.7716a684.js.map",
+    "static/js/2.a4075e7d.chunk.js": "/cv_maker/static/js/2.a4075e7d.chunk.js",
+    "static/js/2.a4075e7d.chunk.js.map": "/cv_maker/static/js/2.a4075e7d.chunk.js.map",
+    "static/js/3.6cb40bbc.chunk.js": "/cv_maker/static/js/3.6cb40bbc.chunk.js",
+    "static/js/3.6cb40bbc.chunk.js.map": "/cv_maker/static/js/3.6cb40bbc.chunk.js.map",
+    "index.html": "/cv_maker/index.html",
+    "static/css/main.c868a22f.chunk.css.map": "/cv_maker/static/css/main.c868a22f.chunk.css.map",
+    "static/js/2.a4075e7d.chunk.js.LICENSE.txt": "/cv_maker/static/js/2.a4075e7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7716a684.js",
+    "static/js/2.a4075e7d.chunk.js",
+    "static/css/main.c868a22f.chunk.css",
+    "static/js/main.2ecd4a5c.chunk.js"
+  ]
+}
